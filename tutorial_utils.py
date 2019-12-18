@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-
+ 
 This file contains functions and data structures useful to the Python for ML
 class but not worth coding in real time. Trace on your own time!
 """
